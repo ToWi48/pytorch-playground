@@ -1,0 +1,31 @@
+[project]
+name = "pytorch-playground"
+version = "0.0.1"
+authors = [
+    { name="Tom Wießner", email="tom.wiessner@mailbox.tu-dresden.de" },
+]
+description = "Bikepark Ticket System"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+  "pandas",
+  "seaborn",
+  "matplotlib",
+  "imblearn",
+  "plotly",
+  "nbconvert",
+  "tensorflow",
+  "scikit-learn",
+  "gdown",
+  "torch",
+]
+
+[project.urls]
+Homepage = "https://github.com/Ujjwal-Nano/Neural-Networks-Project"
+Issues = "https://github.com/Ujjwal-Nano/Neural-Networks-Project/issues"
