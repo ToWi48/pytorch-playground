@@ -24,6 +24,9 @@ dependencies = [
   "scikit-learn",
   "gdown",
   "torch",
+  "open3d",
+  "transformers",
+  "opencv-python"
 ]
 
 [project.urls]
